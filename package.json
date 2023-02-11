@@ -1,0 +1,21 @@
+{
+  "name": "penunggangberuang-dark",
+  "displayName": "Penunggang Beruang - Dark",
+  "description": "Fav. Color Theme by Penunggang Beruang",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Penunggang Beruang Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Penunggang Beruang Color Theme-color-theme.json"
+      }
+    ]
+  }
+}
