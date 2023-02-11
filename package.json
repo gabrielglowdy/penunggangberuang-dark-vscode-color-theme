@@ -1,20 +1,43 @@
 {
   "name": "penunggangberuang-dark",
-  "displayName": "Penunggang Beruang - Dark",
-  "description": "Fav. Color Theme by Penunggang Beruang",
-  "version": "0.0.1",
+  "displayName": "Penunggang Beruang - Dark Theme",
+  "description": "Personal Color Theme by Penunggang Beruang",
+  "version": "1.0.0",
+  "publisher": "PenunggangBeruang",
   "engines": {
     "vscode": "^1.75.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabrielglowdy/penunggangberuang-dark-vscode-color-theme"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "color theme",
+    "theme",
+    "dark",
+    "dark theme",
+    "real dark theme",
+    "gabrielglowdy",
+    "gabrielglowdy dark",
+    "penunggangberuang",
+    "penunggangberuang dark",
+    "penunggang beruang",
+    "penunggang beruang dark"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "Penunggang Beruang Color Theme",
+        "label": "Penunggang Beruang Dark - Purple",
         "uiTheme": "vs-dark",
-        "path": "./themes/Penunggang Beruang Color Theme-color-theme.json"
+        "path": "./themes/dark-purple-color-theme.json"
+      },
+      {
+        "label": "Penunggang Beruang Dark - Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-blue-color-theme.json"
       }
     ]
   }
