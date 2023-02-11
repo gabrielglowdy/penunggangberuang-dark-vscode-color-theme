@@ -1,5 +1,5 @@
 
-![penunggangberuang-dark-logotype](images/icon.png)
+![penunggangberuang-dark-logotype](images/icon-low.png)
 
 
 ![penunggangberuang-dark-screenshot](images/screenshot.png)
