@@ -16,7 +16,8 @@
     "name": "gabrielglowdy",
     "url": "https://github.com/gabrielglowdy",
     "email": "gabrielglowdy@gmail.com"
-},
+  },
+  "pricing": "Free",
   "repository": {
     "type": "git",
     "url": "https://github.com/gabrielglowdy/penunggangberuang-dark-vscode-color-theme"
