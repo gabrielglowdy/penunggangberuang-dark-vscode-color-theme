@@ -2,7 +2,7 @@
   "name": "penunggangberuang-dark",
   "displayName": "Penunggang Beruang - Dark Theme",
   "description": "Personal Color Theme by Penunggang Beruang",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "publisher": "PenunggangBeruang",
   "engines": {
     "vscode": "^1.75.0"
