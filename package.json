@@ -49,6 +49,16 @@
         "label": "Penunggang Beruang Dark - Blue",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-blue-color-theme.json"
+      },
+      {
+        "label": "Penunggang Beruang Dark - Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-green-color-theme.json"
+      },
+      {
+        "label": "Penunggang Beruang Dark - Orange",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-orange-color-theme.json"
       }
     ]
   }
